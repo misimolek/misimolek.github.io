@@ -1,26 +1,26 @@
 p1{
-    color:blueviolet;
+    color:rgb(50, 158, 230);
     font-size:large;
     font-family:"Kablammo";
     
 }
 
 h2{
-    color:rgb(105, 50, 156);
+    color:rgb(123, 211, 211);
     font-size:large;
     font-family:"Kablammo";
     
 }
 
 p{
-    color:rgb(93, 9, 172);
+    color:rgb(9, 12, 172);
     font-size:large;
     
 }
 
 
 body{
-    color:blueviolet;
+    color:rgb(79, 22, 133);
     background-color:rgb(198, 241, 241);
 
 }
